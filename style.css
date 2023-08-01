@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  #sup {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+    
+  .content {
+    width: 450px;
+    height: 350px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 2%;
+    text-align: center;
+  }
+ 
+  img {
+    width: 200px;
+    height: 200px;
+  }
+
+  
